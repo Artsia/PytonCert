@@ -1,7 +1,5 @@
 
 
-
-
 '''
 import pandas as pd
 mydataset = [
@@ -36,7 +34,7 @@ print(myvar.loc[[1,2]]) #Return row 0 and 1:
 
 print()'''
 
-
+'''
 #opn csv file
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -79,12 +77,10 @@ df.dropna(subset=['Date'], inplace = True)
 
 #Consititution of wrong date data is anything but thi format : 2020-01-16 and should be removed
 
+'''
 
 
-
-
-
-   
+'''
 
 #replace null values for specific coloumn in table with zero, make new instance of table and manipulate it(inplace parameter)
 df["positive"].fillna(0, inplace = True)
@@ -118,94 +114,53 @@ mode = df["total_tested"].mode()
 
 print(df['Country_Region'])
 
+'''
 
+'''
 
+#.....boolean datatype......
 
+print(type(False)) 
 
+#.....int datatype......
 
+print(type(12)) 
 
+#.....float datatype......  
 
+print(type(1.067)) 
 
+# print(type(1006L)) error
 
+#.....string datatype....
 
+print(type("True"))
 
+'''
 
+'''
+s = input("enter anything")
+if s.__contains__(st.ascii_letters) and s.__contains__(""):
+  print(type(""))
+else:
+  print(type(9))
+'''
 
+'''
+import string as st
 
+s = input("enter anything")
+if s.__contains__(st.ascii_letters):
+    print(type(""))
+else:
+    print(type(9))
+'''
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#New_Arr = [df['positive'],df['death'],df['recovered'], df['active'], df['hospitalized']
-           #,df['daily_tested'],df['hospitalizedCurr']]
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# New_Arr = [df['positive'],df['death'],df['recovered'], df['active'], df['hospitalized']
+    # ,df['daily_tested'],df['hospitalizedCurr']]
+    
+    
+s = input("Your name is: ")
+print(s,s,s)
