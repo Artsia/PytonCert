@@ -7,6 +7,8 @@
 ### Nodejs and python libraries
 ### Axios, fs, juypiter notebook
 ### APIs: 
+    Statuscode apis:https://http.cat/
+    https://coronavirus.m.pipedream.net/
 
 
 ##
