@@ -6,6 +6,7 @@
 
 ### Nodejs and python libraries
 ### Axios, fs, juypiter notebook
+    https://www.npmjs.com/package/fs-js
 ### APIs: 
     Statuscode apis:https://http.cat/
     https://coronavirus.m.pipedream.net/ and https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme
