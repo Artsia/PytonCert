@@ -74,7 +74,7 @@ async function getCovidData() {
            
 
             writeToFile(file,rawData);
-            //readFileContent(file)
+           
             //appendDataToFile(rawData);
             //dataToWrite.push(JSON.stringify(rawData));
             //dataToWrite = rawData.slice(0, 10).map(obj => JSON.stringify(obj));
