@@ -24,7 +24,7 @@ function writeToFile(fileName, data){
 
   fs.writeFile(fileName, JSON.stringify(data) + '\n\n', function (err) {
     if (err) throw err;
-    console.log('Saved!');
+    console.log('Data has been written to file');
   });
  
 }
@@ -42,6 +42,14 @@ function readFileContent(fileName) {
     console.log(file);
   });
   
+}
+
+/**Delete specified file
+ * @param {*} fileName is file name to be deleted 
+*/
+
+function deleteSpecifiedFile(fileName){
+
 }
 
 
