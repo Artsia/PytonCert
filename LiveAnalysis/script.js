@@ -8,7 +8,7 @@ var fs = require('fs');
 var lastUpdated = "";
 var rawData;
 var dataToWrite = [];
-const file = "myfile.json"
+const file = 'myfileTwo.json';
 
 // store data in a file to be accessed by python and juypyter
 
@@ -74,7 +74,7 @@ async function getCovidData() {
            
 
             writeToFile(file,rawData);
-            readFileContent(file)
+            //readFileContent(file)
             //appendDataToFile(rawData);
             //dataToWrite.push(JSON.stringify(rawData));
             //dataToWrite = rawData.slice(0, 10).map(obj => JSON.stringify(obj));
