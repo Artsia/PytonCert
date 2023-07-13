@@ -1,8 +1,11 @@
 # retrieve data from third party APIs and Anayze the data 
+    Contains 64,240 objects.
+    each object contains 14 key:value pairs. 
 
 ## Autour : Phillip Kataswa
 
 ## Tools
+    https://jsonbeautify.com/
 
 ### Nodejs and python libraries
 ### Axios, fs, juypiter notebook
