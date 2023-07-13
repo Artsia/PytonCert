@@ -20,9 +20,17 @@ def printCategory(age):
         print("teen")
 '''
 
+from time import *
+def myPw():
+    pw = input("Password?")
+    o_pw = "phi"
+    if pw == o_pw:
+        return ("welcome")
+    else:
+        sleep(1)
+        return "Bye" , quit()
 
-
-
+myPw()
 
 
 
