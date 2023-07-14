@@ -1,6 +1,9 @@
 # Covid19 Data Analysis
     Build an app that analyzes data Retrieve from covid19 API.
-    Purpose of project is to study corrolention between the spread of COVID-19 across different regions or countries. Analyze the growth rate, infection rates, and compare the effectiveness of containment measures.
+    Purpose of project is to study corrolention between the spread 
+    of COVID-19 across different regions or countries. 
+    Analyze the growth rate, infection rates, and compare the 
+    effectiveness of containment measures.
 ## Table of contents
     instalation
     Usage
@@ -30,7 +33,7 @@
     npm install
 ### install python packages
 
-## Start Running app
+## Start Running app Instruction
 
 
 ## Usage and Code Example
