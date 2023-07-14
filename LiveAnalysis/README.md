@@ -12,6 +12,27 @@
 
 ## instalation
 
+    Node.js: Install Node.js runtime environment from the official website: Node.js
+
+    npm: npm (Node Package Manager) is usually bundled with 
+    Node.js. 
+    
+    To verify that npm is installed, run the following command in your terminal: npm -v
+
+    If npm is not installed, refer to the official npm documentation for installation instructions.
+    
+    Additionally, you will need Python installed on your system. You can download Python from the official website: https://www.python.org/downloads/ 
+
+    Once you have Node.js, npm, and Python installed, follow these steps to set up the project:
+### Clone the repository:
+    git clone https://github.com/your-username/your-repo.git
+### Change into directory:
+    cd your-repo
+### Install all dependencies:
+    npm install
+### install python packages
+
+
 ## Usage and Code Example
 
 ## Data Sources
