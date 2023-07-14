@@ -21,7 +21,9 @@
 
     If npm is not installed, refer to the official npm documentation for installation instructions.
     
-    Additionally, you will need Python installed on your system. You can download Python from the official website: https://www.python.org/downloads/ 
+    Additionally, you will need Python installed on your system. 
+    
+    You can download Python from the official website: https://www.python.org/downloads/ 
 
     Once you have Node.js, npm, and Python installed, follow these steps to set up the project:
 ### Clone the repository:
