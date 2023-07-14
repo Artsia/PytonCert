@@ -2,14 +2,10 @@
     Build an app that analyzes data Retrieve from covid19 API.
     Purpose of project is to study corrolention between the spread of COVID-19 across different regions or countries. Analyze the growth rate, infection rates, and compare the effectiveness of containment measures.
 ## Table of contents
-    Project description
     instalation
     Usage
     Data Sources
     Technologies Used
-
-## project Description
-
 ## instalation
 
     Node.js: Install Node.js runtime environment from the official website: Node.js
@@ -33,6 +29,8 @@
 ### Install all dependencies:
     npm install
 ### install python packages
+
+## Start Running app
 
 
 ## Usage and Code Example
