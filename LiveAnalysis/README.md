@@ -54,7 +54,7 @@
     axios
     nodemon
     https://jsonbeautify.com/
-    juypiter notebook
+    https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 # retrieve data from third party APIs and Anayze the data 
     Contains 64,240 objects.
     each object contains 14 key:value pairs. 
