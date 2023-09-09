@@ -63,6 +63,5 @@
 ## Repo
     https://github.com/Artsia/PytonCert/tree/master/LiveAnalysis
 
-## Jira issue key intergrations
-    [SCRUM-2]
+
 
